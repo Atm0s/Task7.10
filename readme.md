@@ -17,4 +17,4 @@
 ## Как открыть/запустить
 
 * Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html. 
-* [Второй вариант](http://htmlpreview.github.com/?https://github.com/https://github.com/Atm0s/Task7.10/master/index.html).
+* [Второй вариант](http://htmlpreview.github.com/?https://github.com/Atm0s/Task7.10/master/index.html).

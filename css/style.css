@@ -29,6 +29,11 @@ article {
     padding: 6px 32px;
     border-bottom: 1px solid rgb(172, 172, 163);
     border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+article:nth-child(even) {
+    background-color: rgb(241, 239, 232);
 }
 
 article a {
@@ -38,6 +43,14 @@ article a {
 
 article a:hover {
     color:rgb(128,128,12);
+}
+
+article:nth-child(-n+2) h2::after {
+    content: "NEW";
+    color: red;
+    font-size: .5em;
+    vertical-align: top;
+
 }
 
 article h2 {
